@@ -38,7 +38,7 @@ python downstream_kws_benchmark.py [pretrained model path] [dataset path] [savin
 
 With Wav2Vec 2.0 as the backbone,  speech representation, output of transformer, is transferred to the structure of the model for speech commands recognition.
 
-![image-20210107025355289](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210107025355289.png)
+![image](https://user-images.githubusercontent.com/33983084/103804052-d8f13380-5094-11eb-92e5-fb11e2df2586.png)
 
 # Performance
 
