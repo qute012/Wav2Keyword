@@ -49,11 +49,7 @@ Accuracy of baseline models and proposed Wav2Keyword model on Google Speech Comm
 | Dataset V1 | 97.9         |
 | Dataset V2 | 98.5         |
 
-
-
 Accuracy of baseline models and proposed Wav2Keyword model on Google Speech Command Dataset V2 with its 22 commands
-
-------
 
 | Dataset     | Accuracy (%) |
 | ----------- | ------------ |
