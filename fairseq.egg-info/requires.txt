@@ -1,0 +1,14 @@
+cffi
+cython
+hydra-core
+regex
+sacrebleu>=1.4.12
+torch
+tqdm
+
+[:python_version < "3.7"]
+dataclasses
+numpy<1.20.0
+
+[:python_version >= "3.7"]
+numpy
