@@ -1,6 +1,6 @@
 # Wav2Keyword
 
-Wav2Keyword is keyword spotting(KWS) based on Wav2Vec 2.0. This model shows state-of-the-art(SOTA) in Speech commands dataset V1 and V2.
+Wav2Keyword is keyword spotting(KWS) based on Wav2Vec 2.0. This model shows state-of-the-art in Speech commands dataset V1 and V2.
 
 # Preparation
 
