@@ -68,6 +68,13 @@ Accuracy of baseline models and proposed Wav2Keyword model on Google Speech Comm
 This paper has been submitted. If accept, will add.
 
 ``` bibtex
-@ARTICLE{9427206,  author={Seo, Deokjin and Oh, Heung-Seon and Jung, Yuchul},  journal={IEEE Access},   title={Wav2KWS: Transfer Learning from Speech Representations for Keyword Spotting},   year={2021},  volume={},  number={},  pages={1-1},  doi={10.1109/ACCESS.2021.3078715}}
+@ARTICLE{9427206,  
+  author={Seo, Deokjin and Oh, Heung-Seon and Jung, Yuchul},  
+  journal={IEEE Access},   
+  title={Wav2KWS: Transfer Learning from Speech Representations for Keyword Spotting},   
+  year={2021},  
+  pages={1-1},  
+  doi={10.1109/ACCESS.2021.3078715}
+}
 ```
 
