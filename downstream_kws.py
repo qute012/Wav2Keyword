@@ -84,7 +84,7 @@ from speech_commands.input_data import AudioProcessor
 
 #12 keywords
 #CLASSES = 'unknown, silence, yes, no, up, down, left, right, on, off, stop, go'.split(', ')
-20+2 keywords
+#20+2 keywords
 CLASSES = 'unknown, silence, yes, no, up, down, left, right, on, off, stop, go, zero, one, two, three, four, five, six, seven, eight, nine'.split(', ')
 
 logging.info(f"classes: {CLASSES}")
